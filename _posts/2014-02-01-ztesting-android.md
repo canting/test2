@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Android (sGit)
+title: Testing zAndroid (sGit)
 description: "seeing how easy it is to write a markdown post and pust it with sgit on android."
 modified: 2014-02-01
 category: articles
@@ -10,6 +10,8 @@ image:
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
+
+*edit: added z to title to see if github/jekyll orders pages by title nabme
 
 Does it show up?
 
